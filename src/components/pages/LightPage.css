@@ -1,0 +1,53 @@
+
+.switch1{
+    height: 70px;
+    width: 70%;
+    border-radius: 50%;
+    border-color: black;
+    margin: 30px;
+    background-color: whitesmoke;
+    
+    
+}
+.switch2{
+    height: 70px;
+    width: 70%;
+    border-radius: 50%;
+    border-color: black;
+    margin: 30px;
+    background-color: whitesmoke;
+}
+
+.color-bulb{
+    height: 100px;
+    width: 100px;
+    border-radius: 90px;
+    background-color: yellow;
+    border-color: black;
+    margin-bottom: 25px;
+    
+}
+
+
+
+button{
+    padding: 2px;
+    background-color: grey;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+table{
+    margin: 150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 30%;
+    width: 30%;
+}
